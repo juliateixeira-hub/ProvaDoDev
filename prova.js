@@ -21,9 +21,18 @@
     
 // }
 // }
-// 3. Faça uma função que receba dois valores como parâmetro A e B. Se A for par e B
-// maior que 5 retorne o valor lógico “true” senão retorna “false”
+// let numA = parseInt(prompt("Insira o primeiro valor: "))
+// let numB = parseInt(prompt("Insira o segundo valor: "))
 
+// console.log(ReceberValor(numAParametro, numBParametro))
+
+// function ReceberValor(numAParametro, numBParametro){
+//     if(numAParametro == 2 && numBParametro > 5){
+//         return true 
+//     } else {
+//         return false
+//     }
+// }
 // 4. Faça uma função que recebe 3 valores inteiros por parâmetro e retorna-os em um
 // array ordenado em ordem crescente.
 // 5. Crie um array com 10 elementos. Faça uma função que recebe dois valores como
