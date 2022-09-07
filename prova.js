@@ -18,7 +18,7 @@
 // function RetornarSoma(numParametro){
 // for (let index = 1; index < numParametro; index++) {
 //     numParametro = [array] 
-    
+
 // }
 // }
 // let numA = parseInt(prompt("Insira o primeiro valor: "))
@@ -35,6 +35,19 @@
 // }
 // 4. Faça uma função que recebe 3 valores inteiros por parâmetro e retorna-os em um
 // array ordenado em ordem crescente.
+let prim = [] = parseInt(prompt("Insira um valor inteiro: "))
+let seg = [] = parseInt(prompt("Insira um valor inteiro: "))
+let terc = [] = parseInt(prompt("Insira um valor inteiro: "))
+
+console.log(ReceberInteiro(primParametro, segParametro, tercParametro))
+
+function ReceberInteiro(primParametro, segParametro, tercParametro) {
+    OrdenarArrays()
+} function OrdenarArrays(){
+    for (let atual = 0; atual < contador; atual++){
+        prim[atual] = prim[contador]
+    }
+}
 // 5. Crie um array com 10 elementos. Faça uma função que recebe dois valores como
 // parâmetro o Limite Inferior e o Limite Superior, depois exiba no console somentos
 // os valores do array que são maiores ou iguais que o Limite Inferior e menores ou
